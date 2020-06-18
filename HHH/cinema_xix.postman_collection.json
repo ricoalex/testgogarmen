@@ -1,0 +1,3190 @@
+{
+	"id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+	"name": "cinema_xix",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"name": "auth",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"order": [
+				"e6a22585-be2d-2978-1e2e-9aac132d1849",
+				"3502f79f-ad40-f5a3-2f96-380f45ec34bc",
+				"020f1d17-504a-0258-121d-43566af332e9",
+				"9bd67c97-4ad0-dba9-efdb-35c3b0dd79c2"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "a2391a2f-ad81-b5a7-c0fc-d8c7e0960ae0"
+		},
+		{
+			"name": "branch",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"order": [
+				"6533af77-0b4f-d34c-8fb6-9f7ee9381a35",
+				"121ba3a5-354c-27f3-e048-1122a9d957a4",
+				"3f3d93b5-6a36-9e30-0bb3-139764080460",
+				"3d3736ca-83ac-3c5f-07a5-a2c4fd8d606b",
+				"977bf332-51a0-1f56-9444-698d359f5046",
+				"ba2e85ca-808f-0fd2-1ef5-477c74f13cfd",
+				"0970e4ff-e22c-e342-065a-f607904d1138",
+				"ca7e704e-2270-7583-35c6-6d10fda4dda3",
+				"6d3404aa-ffb0-1836-c527-37bf71db95ea",
+				"5ba8c703-a82b-f1cb-0921-3752289c09df",
+				"c510978e-f9f3-3694-36a6-040b3c43713a",
+				"0b9c82f6-7e6a-b0b0-6b06-b41b8451cc6b",
+				"a65fe437-54ef-5f6d-9aa8-32c51656b594",
+				"ff3c1b34-8541-5c3a-ff9e-1f136bcd2680"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "567fc54f-a899-8d33-0e1b-e162c75eb295"
+		},
+		{
+			"name": "movie",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"order": [
+				"930e8453-61a2-deca-d7d5-2ed4d4fa2c5a",
+				"e74cc428-721f-aa9e-14e9-ed74ae60cf18",
+				"9e1ee4b7-cfdc-9b83-19c1-c3f7c80a448a",
+				"3357ef2b-f485-8d60-a117-657c00479869",
+				"42e0a894-bfd1-312e-8905-50421d69c001",
+				"afa4f388-ed18-3435-1106-0c71969b9759",
+				"5dd6c10b-178a-fe56-a0b3-6a491641739a",
+				"ec07d4e9-3bc6-13b3-1385-c6dc22076b8c",
+				"c99c6279-b658-4ca7-6c39-e4aa8853f8ed",
+				"a71ef6f3-617f-327c-da8d-53533d891a08",
+				"501181a1-3878-dc05-f2ba-bc9d014cbd36",
+				"104c440c-adc2-b795-2591-4ce455bd4ab0",
+				"c3cc6785-af21-7f15-d26f-f4fe52f9efe0",
+				"78f09275-6ece-d7dd-0a94-a808ed53bc84"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "90c2777d-6437-da45-2785-fb02f2bb0c17"
+		},
+		{
+			"name": "schedule",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"order": [
+				"cde45b4d-c285-8705-6dd6-97a0e3e4058e",
+				"6b8f0927-3712-9381-8c0b-33295951c2eb",
+				"a97933ec-ef3b-56c9-2bbb-7405bbe29f70",
+				"a56e9578-39ed-9165-a081-da6f2b7d6494",
+				"20550892-5617-eff1-a1b8-44b6d4590075",
+				"affead13-c6a8-604b-6422-afbe7334f2d8",
+				"9ea2e983-3fd7-5199-a0bb-05cc37bf3c4f",
+				"27d9aa7c-75ec-659b-869e-706de0732d74",
+				"250e7378-fd4a-ada2-9002-690997617a4c",
+				"5943b517-21c7-995a-3b8d-31c75f448cb8",
+				"0bd47536-07c4-800e-9a60-54910b5e3b1e",
+				"f3fb0aba-4ad5-f182-1872-7d9e156371b6",
+				"9ecb5fe0-892f-39aa-941f-8333e129a893",
+				"7a23812e-acaa-c70e-4f34-7cb54966387f",
+				"fbd0c010-895a-6b67-b2e0-f0e756662c9f",
+				"6bdd16dc-0ffc-0ee2-122b-974c8b108a35",
+				"95ff465d-0a0b-5d6b-c2d9-157ec6e79e53",
+				"69a9da7b-850c-53f4-0e09-b79358a688fe"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "3269df36-c451-994d-6480-f41cb5235909",
+			"timestamp": null
+		},
+		{
+			"name": "studio",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"order": [
+				"b2cf7c14-2437-e9ab-c487-98fd60c47149",
+				"ade32a5b-f921-66ee-7307-a8139e4f94f6",
+				"05737028-30c6-7868-c201-d28a8e7a8b19",
+				"c8538e20-2a12-c5a3-079e-ca0723788dd7",
+				"be402e6e-0640-9cba-7b52-942550c5a294",
+				"e8a002eb-ed89-d78d-943f-2509f2b2a4e3",
+				"b5d373f3-006a-db26-3d62-f7aa25cafb1d",
+				"7b3981a4-bff3-68d8-7929-0f8566b811a3",
+				"73f903ec-593c-cd2f-e6c8-833ae5128ca3",
+				"c7c36d6d-371f-b32b-e22b-88ec0e80bb3f",
+				"55c59b3d-1c65-8e7a-7ffa-681f4a2d362d",
+				"059eb91e-86fe-bafd-c990-0c623a96759d",
+				"e6567098-8881-c182-d0f6-c680c9e243f2",
+				"03c4c519-5522-72c8-75b0-eeb906319f16"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5"
+		}
+	],
+	"folders_order": [
+		"a2391a2f-ad81-b5a7-c0fc-d8c7e0960ae0",
+		"567fc54f-a899-8d33-0e1b-e162c75eb295",
+		"6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+		"90c2777d-6437-da45-2785-fb02f2bb0c17",
+		"3269df36-c451-994d-6480-f41cb5235909"
+	],
+	"timestamp": 1525438648073,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "020f1d17-504a-0258-121d-43566af332e9",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/auth/logout?token={{token}}",
+			"folder": "a2391a2f-ad81-b5a7-c0fc-d8c7e0960ae0",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525833896297,
+			"name": "logout",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "03c4c519-5522-72c8-75b0-eeb906319f16",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1?token={{user_token}}",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834349689,
+			"name": "delete studio 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "05737028-30c6-7868-c201-d28a8e7a8b19",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios?token={{user_token}}",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834361550,
+			"name": "view studio 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "059eb91e-86fe-bafd-c990-0c623a96759d",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "DELETE",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [],
+			"dataMode": "params",
+			"name": "delete studio",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439582221,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"timestamp": null,
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "0970e4ff-e22c-e342-065a-f607904d1138",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches?token={{token}}",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440721621,
+			"name": "create branch 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "0b9c82f6-7e6a-b0b0-6b06-b41b8451cc6b",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "DELETE",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [],
+			"dataMode": "params",
+			"name": "delete branch",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439406863,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "0bd47536-07c4-800e-9a60-54910b5e3b1e",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:24:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441225611,
+			"name": "update schedule 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "104c440c-adc2-b795-2591-4ce455bd4ab0",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/movies/1?token={{token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525439929302,
+			"name": "delete movie",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "121ba3a5-354c-27f3-e048-1122a9d957a4",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834485257,
+			"name": "view branch 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "20550892-5617-eff1-a1b8-44b6d4590075",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:00:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441196332,
+			"name": "create schedule 400",
+			"description": "jadwal sudah ada yang terbentuk di start - end yang ada di studio yang sama",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "250e7378-fd4a-ada2-9002-690997617a4c",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:24:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525440387613,
+			"name": "update schedule",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "27d9aa7c-75ec-659b-869e-706de0732d74",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "a-02-asd:02:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441142308,
+			"name": "create schedule 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "3357ef2b-f485-8d60-a117-657c00479869",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "{{url}}/v1/movies?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [
+				{
+					"key": "name",
+					"value": "Perang Bintang",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "113",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "create movie",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439709759,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"timestamp": null,
+			"isFromCollection": true,
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "3502f79f-ad40-f5a3-2f96-380f45ec34bc",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/auth/login",
+			"folder": "a2391a2f-ad81-b5a7-c0fc-d8c7e0960ae0",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "username",
+					"value": "qwe",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "asd",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525440586116,
+			"name": "login 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "3d3736ca-83ac-3c5f-07a5-a2c4fd8d606b",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [
+				{
+					"key": "name",
+					"value": "Mataram",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "create branch",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439309751,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "3f3d93b5-6a36-9e30-0bb3-139764080460",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches?token={{user_token}}",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525834073115,
+			"name": "view branch 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"isFromCollection": true,
+			"collectionRequestId": "121ba3a5-354c-27f3-e048-1122a9d957a4"
+		},
+		{
+			"id": "42e0a894-bfd1-312e-8905-50421d69c001",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{url}}/v1/movies",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Perang Bintang",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "113",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440985397,
+			"name": "create movie 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "501181a1-3878-dc05-f2ba-bc9d014cbd36",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{url}}/v1/movies/1?token={{token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "999999",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441042076,
+			"name": "edit movie 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "55c59b3d-1c65-8e7a-7ffa-681f4a2d362d",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1?token={{token}}",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "3",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "-5",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "-8",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440953468,
+			"name": "update studio 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "5943b517-21c7-995a-3b8d-31c75f448cb8",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:04:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441215403,
+			"name": "update schedule 400",
+			"description": "jadwal sudah ada yang terbentuk di start - end yang ada di studio yang sama",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "5ba8c703-a82b-f1cb-0921-3752289c09df",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1?token={{user_token}}",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834115033,
+			"name": "edit branch 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "5dd6c10b-178a-fe56-a0b3-6a491641739a",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{url}}/v1/movies?token={{token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "99999",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441000788,
+			"name": "create movie 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "6533af77-0b4f-d34c-8fb6-9f7ee9381a35",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [],
+			"dataMode": "params",
+			"name": "view branch",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439191408,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "69a9da7b-850c-53f4-0e09-b79358a688fe",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/available-schedules?branch_id=1&date=2018-04-19",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "branch_id",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "date",
+					"value": "2018-04-19",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834664483,
+			"name": "user view schedule 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "6b8f0927-3712-9381-8c0b-33295951c2eb",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834633821,
+			"name": "view schedule 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "6bdd16dc-0ffc-0ee2-122b-974c8b108a35",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1?token={{user_token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834726863,
+			"name": "delete schedule 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "6d3404aa-ffb0-1836-c527-37bf71db95ea",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Mataram",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440733173,
+			"name": "edit branch 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "73f903ec-593c-cd2f-e6c8-833ae5128ca3",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "30000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440916620,
+			"name": "update studio 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "78f09275-6ece-d7dd-0a94-a808ed53bc84",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/movies/1?token={{user_token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834604393,
+			"name": "delete movie 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "7a23812e-acaa-c70e-4f34-7cb54966387f",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525440323757,
+			"name": "delete schedule",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "7b3981a4-bff3-68d8-7929-0f8566b811a3",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "30000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525439550470,
+			"name": "update studio",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "930e8453-61a2-deca-d7d5-2ed4d4fa2c5a",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/movies?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [],
+			"dataMode": "params",
+			"name": "view movie",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439615782,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "95ff465d-0a0b-5d6b-c2d9-157ec6e79e53",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/view-schedule?token={{token}}&branch_id=1&date=2018-04-19",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "date",
+					"value": "2018-04-19",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525440469676,
+			"name": "user view schedule",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "977bf332-51a0-1f56-9444-698d359f5046",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Mataram",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440716965,
+			"name": "create branch 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "9bd67c97-4ad0-dba9-efdb-35c3b0dd79c2",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/auth/logout",
+			"folder": "a2391a2f-ad81-b5a7-c0fc-d8c7e0960ae0",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834470128,
+			"name": "logout 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "9e1ee4b7-cfdc-9b83-19c1-c3f7c80a448a",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/movies?token={{user_token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834569606,
+			"name": "view movie 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "9ea2e983-3fd7-5199-a0bb-05cc37bf3c4f",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules?token={{user_token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:00:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834688391,
+			"name": "create schedule 403",
+			"description": "jadwal sudah ada yang terbentuk di start - end yang ada di studio yang sama",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "9ecb5fe0-892f-39aa-941f-8333e129a893",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-asdasd:24:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441235163,
+			"name": "update schedule 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "a56e9578-39ed-9165-a081-da6f2b7d6494",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:02:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525440380933,
+			"name": "create schedule",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "a65fe437-54ef-5f6d-9aa8-32c51656b594",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440743757,
+			"name": "delete branch 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "a71ef6f3-617f-327c-da8d-53533d891a08",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{url}}/v1/movies/1?token={{user_token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Perang Bintang",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "113",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834592728,
+			"name": "edit movie 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "a97933ec-ef3b-56c9-2bbb-7405bbe29f70",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules?token={{user_token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834627576,
+			"name": "view schedule 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "ade32a5b-f921-66ee-7307-a8139e4f94f6",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834394739,
+			"name": "view studio 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "afa4f388-ed18-3435-1106-0c71969b9759",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{url}}/v1/movies?token={{user_token}}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Perang Bintang",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "113",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834581854,
+			"name": "create movie 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "affead13-c6a8-604b-6422-afbe7334f2d8",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:02:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441123555,
+			"name": "create schedule 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "b2cf7c14-2437-e9ab-c487-98fd60c47149",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [],
+			"dataMode": "params",
+			"name": "view studio",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439440510,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"timestamp": null,
+			"isFromCollection": true,
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "b5d373f3-006a-db26-3d62-f7aa25cafb1d",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios?token={{token}}",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "-10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "-1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440906524,
+			"name": "create studio 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "ba2e85ca-808f-0fd2-1ef5-477c74f13cfd",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches?token={{user_token}}",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834093306,
+			"name": "create branch 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "be402e6e-0640-9cba-7b52-942550c5a294",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "30000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440877460,
+			"name": "create studio 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "c3cc6785-af21-7f15-d26f-f4fe52f9efe0",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/movies/1",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441054772,
+			"name": "delete movie 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "c510978e-f9f3-3694-36a6-040b3c43713a",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1?token={{token}}",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440736670,
+			"name": "edit branch 422",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "c7c36d6d-371f-b32b-e22b-88ec0e80bb3f",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1?token={{user_token}}",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "30000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834338138,
+			"name": "update studio 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "c8538e20-2a12-c5a3-079e-ca0723788dd7",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "30000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "create studio",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439524711,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "c99c6279-b658-4ca7-6c39-e4aa8853f8ed",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "{{url}}/v1/movies/1",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Perang Bintang",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "113",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441029931,
+			"name": "edit movie 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "ca7e704e-2270-7583-35c6-6d10fda4dda3",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Mataram",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "edit branch",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439346175,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"isFromCollection": true,
+			"timestamp": null,
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "cde45b4d-c285-8705-6dd6-97a0e3e4058e",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules?token={{token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525439984422,
+			"name": "view schedule",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"timestamp": null,
+			"isFromCollection": true,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "e6567098-8881-c182-d0f6-c680c9e243f2",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios/1",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525440963876,
+			"name": "delete studio 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "e6a22585-be2d-2978-1e2e-9aac132d1849",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/auth/login",
+			"folder": "a2391a2f-ad81-b5a7-c0fc-d8c7e0960ae0",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "username",
+					"value": "admin1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "admin1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1525439122416,
+			"name": "login",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "e74cc428-721f-aa9e-14e9-ed74ae60cf18",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/movies",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834558035,
+			"name": "view movie 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "e8a002eb-ed89-d78d-943f-2509f2b2a4e3",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/studios?token={{user_token}}",
+			"folder": "6919d0e3-2586-38f6-1b64-d2f5f4ba35e5",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "name",
+					"value": "Studio 1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "branch_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "basic_price",
+					"value": "30000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_friday_price",
+					"value": "5000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_saturday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "additional_sunday_price",
+					"value": "10000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834327592,
+			"name": "create studio 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "ec07d4e9-3bc6-13b3-1385-c6dc22076b8c",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": true,
+					"description": ""
+				}
+			],
+			"url": "{{url}}/v1/movies/1?token={{token}}",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "Perang Bintang",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "minute_length",
+					"value": "113",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "",
+					"description": "",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "edit movie",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1525439906863,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"folder": "90c2777d-6437-da45-2785-fb02f2bb0c17",
+			"isFromCollection": true,
+			"timestamp": null,
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "f3fb0aba-4ad5-f182-1872-7d9e156371b6",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1?token={{user_token}}",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "_method",
+					"value": "PUT",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "studio_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "movie_id",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "start",
+					"value": "2018-02-01T14:24:00",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834715344,
+			"name": "update schedule 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": []
+		},
+		{
+			"id": "fbd0c010-895a-6b67-b2e0-f0e756662c9f",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/schedules/1",
+			"folder": "3269df36-c451-994d-6480-f41cb5235909",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "QWERTY",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525441245011,
+			"name": "delete schedule 401",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		},
+		{
+			"id": "ff3c1b34-8541-5c3a-ff9e-1f136bcd2680",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/v1/branches/1?token={{user_token}}",
+			"folder": "567fc54f-a899-8d33-0e1b-e162c75eb295",
+			"queryParams": [
+				{
+					"key": "token",
+					"value": "{{user_token}}",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1525834145968,
+			"name": "delete branch 403",
+			"description": "",
+			"collectionId": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1",
+			"responses": [],
+			"collection_id": "c9c73f32-8d68-78fb-4de1-9e4aeb5ee7d1"
+		}
+	]
+}
